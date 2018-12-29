@@ -17,7 +17,7 @@ To contribute:
 | [Carousell](https://careers.carousell.com/)  | Tanjong Pagar | Unknown | No intern positions listed |
 | [DRW](https://boards.greenhouse.io/drw/jobs/1321748)  | Downtown/Marina Bay | Summer | Quantitative Research |
 | [Facebook](https://www.facebook.com/careers/jobs/178530879678166/)  | Marina One | Summer |  |
-| [Google](https://careers.google.com/jobs/results/6704630719119360-software-engineering-intern-summer-2019)  | Pasir Panjang | Summer | Deadline: 16th November 2019 |
+| [Google](https://careers.google.com/jobs/results/6704630719119360-software-engineering-intern-summer-2019)  | Pasir Panjang | Summer | Deadline: 16th November 2018 |
 | [Grab](https://grab.careers/team-engineering/?tm=Engineering)  | Marina One | Unknown | No intern positions listed |
 | [Honestbee](https://careers.honestbee.com/departments/job/)  | Tiong Bahru | Summer | No intern positions listed |
 | [Jump Trading](https://www.jumptrading.com/jobs.html)  | Downtown | Summer | Closed |
