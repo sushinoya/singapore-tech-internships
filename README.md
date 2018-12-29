@@ -26,4 +26,5 @@ To contribute:
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-singapore)  | Outram Park | Summer | |
 | [Twitter](https://careers.twitter.com/en/work-for-twitter/201812/intern-data-science-singapore-.html)  | Raffles Place/Downtown | Summer | Data Science |
 | [VISA](https://www.visa.co.in/careers/job-details.jobid.743999675740916.deptid.868537.html)  | Paya Lebar | Summer | Might include an all-paid trip to the VISA HQ in San Francisco |
-| [Zendesk](https://www.zendesk.com/jobs/singapore/)  | Commonwealth | Summer | Zendesk offers two positions: Intern - Chat Growth & Intern - Chat Public API |
+| [ViSenze](https://visenze.workable.com/j/E0ED8C637D)  | One-North | Unknown | |
+| [Zendesk](https://www.zendesk.com/jobs/singapore/)  | Commonwealth | Summer | Two Openings: Intern - Chat Growth & Intern - Chat Public API |
