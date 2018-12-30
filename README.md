@@ -19,8 +19,8 @@ To contribute:
 | [Facebook](https://www.facebook.com/careers/jobs/178530879678166/)  | Marina One | Summer |  |
 | [Google](https://careers.google.com/jobs/results/6704630719119360-software-engineering-intern-summer-2019)  | Pasir Panjang | Summer | Deadline: 16th November 2019 |
 | [Grab](https://grab.careers/team-engineering/?tm=Engineering)  | Marina One | Unknown | No intern positions listed |
-|[IBM](https://careers.ibm.com/ShowJob/Id/472126/Software-Developer-Intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Changi Business Park | Unknown | Software Development |
 | [Honestbee](https://careers.honestbee.com/departments/job/)  | Tiong Bahru | Summer | No intern positions listed |
+|[IBM](https://careers.ibm.com/ShowJob/Id/472126/Software-Developer-Intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Changi Business Park | Unknown | | 
 | [Jump Trading](https://www.jumptrading.com/jobs.html)  | Downtown | Summer | Closed |
 | [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year around | |
 | [ShopBack](http://careers.shopback.com/singapore)  | One-North | Summer | Two Openings: Intern - QA & Intern - iOS |
