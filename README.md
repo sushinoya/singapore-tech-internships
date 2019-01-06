@@ -30,6 +30,7 @@ To contribute:
 | [ShopBack](http://careers.shopback.com/singapore)  | One-North | Summer | Two Openings: Intern - QA & Intern - iOS |
 | [SEA(Shopee)](https://careers.shopee.sg/) | Kent-Ridge | All-year around| |
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-singapore)  | Outram Park | Summer | |
+| [Traveloka](https://www.traveloka.com/en-sg/careers/internships)| Unknown | Summer | |
 | [Twitter](https://careers.twitter.com/en/work-for-twitter/201812/intern-data-science-singapore-.html)  | Raffles Place/Downtown | Summer | Data Science |
 | [VISA](https://www.visa.co.in/careers/job-details.jobid.743999675740916.deptid.868537.html)  | Paya Lebar | Summer | Might include an all-paid trip to the VISA HQ in San Francisco |
 | [ViSenze](https://visenze.workable.com/j/E0ED8C637D)  | One-North | Unknown | |
