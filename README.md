@@ -14,7 +14,8 @@ To contribute:
 ## List of postions
 | Name | Location | Application Period | Notes  |
 |---|---|---|---|
-| [Carousell](https://careers.carousell.com/)  | Tanjong Pagar | Unknown | No intern positions listed |
+| [Carousell](https://careers.carousell.com/)  | Tanjong Pagar | Unknown | Data Intern |
+| [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html)  | NUS | Summer | SWE Intern (Predominantly for NUS students) |
 | [DRW](https://boards.greenhouse.io/drw/jobs/1321748)  | Downtown/Marina Bay | Summer | Quantitative Research |
 | [Facebook](https://www.facebook.com/careers/jobs/178530879678166/)  | Marina One | Summer |  |
 | [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | |
@@ -28,7 +29,7 @@ To contribute:
 | [Nutonomy](https://www.nutonomy.com/careers/) | Jurong | All-year-around | Autonomous Driving Intern. Note that you need to be on a MS/PhD track |
 | [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year around | |
 | [ShopBack](http://careers.shopback.com/singapore)  | One-North | Summer | Two Openings: Intern - QA & Intern - iOS |
-| [SEA(Shopee)](https://careers.shopee.sg/) | Kent-Ridge | All-year around| |
+| [SEA(Shopee)](https://careers.shopee.sg/) | Kent-Ridge | All-year around | |
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-singapore)  | Outram Park | Summer | |
 | [Traveloka](https://www.traveloka.com/en-sg/careers/internships)| Unknown | Summer | |
 | [Twitter](https://careers.twitter.com/en/work-for-twitter/201812/intern-data-science-singapore-.html)  | Raffles Place/Downtown | Summer | Data Science |
