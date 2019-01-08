@@ -17,6 +17,7 @@ To contribute:
 | [Carousell](https://careers.carousell.com/)  | Tanjong Pagar | Unknown | Data Intern |
 | [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html)  | NUS | Summer | SWE Intern (Predominantly for NUS students) |
 | [DRW](https://boards.greenhouse.io/drw/jobs/1321748)  | Downtown/Marina Bay | Summer | Quantitative Research |
+| [FireVisor](https://angel.co/firevisor/jobs) | One-North / City Hall | All-year around | Hire interns even if not listed |
 | [Facebook](https://www.facebook.com/careers/jobs/178530879678166/)  | Marina One | Summer |  |
 | [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | |
 | [Google](https://careers.google.com/jobs/results/6704630719119360-software-engineering-intern-summer-2019)  | Pasir Panjang | Summer | Deadline: 16th November 2019 |
