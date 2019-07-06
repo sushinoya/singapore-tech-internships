@@ -29,7 +29,7 @@ To contribute:
 | [Jump Trading](https://www.jumptrading.com/jobs.html)  | Downtown | Summer | Closed |
 | [Lazada](http://www.lazada.com/work-at-lazada) | Tanjong Pagar | Summer | |
 | [nuTonomy](https://www.nutonomy.com/careers/) | One-North | All-year-round | Software Engineering Intern (BSc/MS/PhD) and Autonomous Driving Intern (MS/PhD) |
-| [Open Government Products](https://open.gov.sg/) | One-North | All-year-round | SE & UX interns; Only eligible for Singaporeans and PRs |
+| [Open Government Products](https://open.gov.sg/) | City Hall | All-year-round | SE & UX interns; Only eligible for Singaporeans and PRs |
 | [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year-round | |
 | [SEA(Shopee)](https://careers.shopee.sg/) | Kent-Ridge | All-year-round | |
 | [ShopBack](http://careers.shopback.com/singapore)  | One-North | Summer | Two Openings: Intern - QA & Intern - iOS |
