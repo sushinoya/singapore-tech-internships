@@ -14,6 +14,7 @@ To contribute:
 ## List of positions
 | Name | Location | Application Period | Notes  |
 |---|---|---|---|
+| [Bosch](https://www.bosch.com.sg/careers/) | Marymount | Unkown | SW/IoT/Systems Engineer |
 | [Carousell](https://careers.carousell.com/)  | Tanjong Pagar | Unknown | Data Intern |
 | [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html)  | NUS | Summer | SWE Intern (Predominantly for NUS students) |
 | [DRW](https://boards.greenhouse.io/drw/jobs/1321748)  | Downtown/Marina Bay | Summer | Quantitative Research |
