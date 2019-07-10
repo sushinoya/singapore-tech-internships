@@ -21,15 +21,17 @@ To contribute:
 | [Facebook](https://www.facebook.com/careers/jobs/178530879678166/)  | Marina One | Summer |  |
 | [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | |
 | [Google](https://careers.google.com/jobs/results/6704630719119360-software-engineering-intern-summer-2019)  | Pasir Panjang | Summer | Deadline: 16th November 2019 |
-| [GovTech](https://www.tech.gov.sg/careers/students-and-graduates/)  | One-North | All-year-round | |
+| [GovTech](https://www.tech.gov.sg/careers/students-and-graduates/) | One-North | All-year-round | |
 | [Grab](https://grab.careers/team-engineering/?tm=Engineering)  | Marina One | Unknown | No intern positions listed |
 | [Honestbee](https://careers.honestbee.com/departments/job/)  | Tiong Bahru | Summer | No intern positions listed |
 | [HopeTechnik](https://www.hopetechnik.com/careers/) | Jurong | All-year-round | Software Engineering Intern && Technical Analyst && Mechanical Engineering Intern |
 | [IBM](https://careers.ibm.com/ShowJob/Id/472126/Software-Developer-Intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Changi Business Park | Unknown | |
 | [Jump Trading](https://www.jumptrading.com/jobs.html)  | Downtown | Summer | Closed |
-| [Lazada](http://www.lazada.com/work-at-lazada) | Tanjong Pagar | Summer | |
+| [Lazada](http://www.lazada.com/work-at-lazada) | Tanjong Pagar | All-year-round | |
+| [Ninja Van](https://www.ninjavan.co/en-sg/careers) | Redhill | All-year-round | |
 | [nuTonomy](https://www.nutonomy.com/careers/) | One-North | All-year-round | Software Engineering Intern (BSc/MS/PhD) and Autonomous Driving Intern (MS/PhD) |
-| [Open Government Products](https://open.gov.sg/) | City Hall | All-year-round | SE & UX interns; Only eligible for Singaporeans and PRs |
+| [Open Government Products](https://open.gov.sg/) | City Hall | All-year-round | Only eligible for Singaporeans and PRs. Affiliated to but not the same as GovTech. |
+| [PayPal](https://www.paypal.com/us/webapps/mpp/jobs) | Suntec | All-year-round | Prefer interns who can commit for 6 months |
 | [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year-round | |
 | [SEA(Shopee)](https://careers.shopee.sg/) | Kent-Ridge | All-year-round | |
 | [ShopBack](http://careers.shopback.com/singapore)  | One-North | Summer | Two Openings: Intern - QA & Intern - iOS |
