@@ -40,3 +40,4 @@ To contribute:
 | [ViSenze](https://visenze.workable.com/jobs/708797/candidates/new)  | One-North | Unknown | |
 | Yitu Tech | Pasir Panjang | Summer/Winter | |
 | [Zendesk](https://www.zendesk.com/jobs/singapore/)  | Commonwealth | Summer | No intern positions listed |
+| [GovTech](https://govtech.taleo.net/careersection/govtech_internship/jobsearch.ftl)| Depends on team| Summer||
