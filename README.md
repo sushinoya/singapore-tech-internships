@@ -41,3 +41,4 @@ To contribute:
 | Yitu Tech | Pasir Panjang | Summer/Winter | |
 | [Zendesk](https://www.zendesk.com/jobs/singapore/)  | Commonwealth | Summer | No intern positions listed |
 | [GovTech](https://govtech.taleo.net/careersection/govtech_internship/jobsearch.ftl)| Depends on team| Summer||
+| [JPMorgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=190064684)| | Summer|October 27, 2019|
