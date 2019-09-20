@@ -22,7 +22,7 @@ To contribute:
 | [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | No intern positions listed |
 | [Google](https://careers.google.com/jobs/results/142027906936120006-software-engineering-intern-summer-2020/?company=Google&company=YouTube&hl=en&jlo=en-US&location=Singapore&q=Software%20Engineering%20intern)  | Pasir Panjang | Summer | Deadline: 31st October 2019 | Within 12-18 months of completing a Bachelor's or Master's degree
 | [Google (STEP)](https://careers.google.com/jobs/results/97828209514422982-student-training-in-engineering-program-step-intern-2020/?company=Google&company=YouTube&hl=en&jlo=en-US&location=Singapore&q=Software%20Engineering%20intern)  | Pasir Panjang | Summer | Deadline: 31st October 2019 |
-| [Grab](https://grab.careers/team-engineering/?tm=Engineering)  | Marina One | Unknown | No intern positions listed |
+| [Grab](https://grab.careers/job-details/?id=962b081ccd05013e0a432d0006525ea0)  | Marina One | Unknown | Data Analytics & Data Science, ATAP |
 | [Honestbee](https://careers.honestbee.com/departments/job/)  | Tiong Bahru | Summer | No intern positions listed |
 | [HopeTechnik](https://www.hopetechnik.com/careers/) | Jurong | All-year around| Software Engineering Intern && Technical Analyst && Mechanical Engineering Intern |
 |IBM | Changi Business Park | Unknown | |
