@@ -33,7 +33,7 @@ To contribute:
 | [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year around | |
 | [ShopBack](http://careers.shopback.com/singapore)  | One-North | Summer | No SE intern positions listed |
 | [SEA(Shopee)](https://careers.shopee.sg/) | Kent-Ridge | All-year around | |
-| Stripe | Outram Park | Summer | |
+| [Stripe](https://stripe.com/jobs/listing/software-engineering-intern-apac/1806024?gh_src=73vnei) | Outram Park | Summer | |
 | Traveloka| Unknown | Summer | |
 | Twitter  | Raffles Place/Downtown | Summer ||
 | [VISA](https://jobs.smartrecruiters.com/oneclick-ui/company/108611351/job/1520850202/publication/743999693253063)  | Paya Lebar | Summer | Might include an all-paid trip to the VISA HQ in San Francisco |
