@@ -18,7 +18,7 @@ To contribute:
 | [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html)  | NUS | Summer | SWE Intern (Predominantly for NUS students) |
 | DRW  | Downtown/Marina Bay | Summer | Quantitative Research |
 | [FireVisor](https://angel.co/firevisor/jobs) | One-North / City Hall | All-year around | Hire interns even if not listed |
-| Facebook | Marina One | Summer | No positions listed yet |
+| [Facebook](https://www.facebook.com/careers/jobs/440222083369338/) | Marina One | Summer | |
 | [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | No intern positions listed |
 | [Google](https://careers.google.com/jobs/results/142027906936120006-software-engineering-intern-summer-2020/?company=Google&company=YouTube&hl=en&jlo=en-US&location=Singapore&q=Software%20Engineering%20intern)  | Pasir Panjang | Summer | Deadline: 31st October 2019 | Within 12-18 months of completing a Bachelor's or Master's degree
 | [Google (STEP)](https://careers.google.com/jobs/results/97828209514422982-student-training-in-engineering-program-step-intern-2020/?company=Google&company=YouTube&hl=en&jlo=en-US&location=Singapore&q=Software%20Engineering%20intern)  | Pasir Panjang | Summer | Deadline: 31st October 2019 |
