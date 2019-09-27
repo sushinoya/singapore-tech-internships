@@ -22,7 +22,7 @@ To contribute:
 | [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | |
 | [Google](https://careers.google.com/jobs/results/6704630719119360-software-engineering-intern-summer-2019)  | Pasir Panjang | Summer | Deadline: 16th November 2019 |
 | [GovTech](https://www.tech.gov.sg/careers/students-and-graduates/) | One-North | All-year-round | |
-| [Grab](https://grab.careers/team-engineering/?tm=Engineering)  | Marina One | Unknown | No intern positions listed |
+| [Grab](https://grab.careers/job-details/?id=962b081ccd0501029eb22deb05520ca0)  | Marina One | Unknown | Deadline: 5th November 2019 |
 | [Honestbee](https://careers.honestbee.com/departments/job/)  | Tiong Bahru | Summer | No intern positions listed |
 | [HopeTechnik](https://www.hopetechnik.com/careers/) | Jurong | All-year-round | Software Engineering Intern && Technical Analyst && Mechanical Engineering Intern |
 | [IBM](https://careers.ibm.com/ShowJob/Id/472126/Software-Developer-Intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Changi Business Park | Unknown | |
