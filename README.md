@@ -1,9 +1,12 @@
 
 # Singapore Tech Internships!
 
-All positions are Software Engineering roles, unless otherwise specified in the Notes column. Similarly, all positions are open to anyone enrolled in a Bachelor's degree program, unless specific graduation years are mentioned in the Notes column. Internships here are for mostly for **Summer 2020.**
+All the internship positions listed in the table are for Software Engineering roles and are open to anyone enrolled in a Bachelor's degree program, unless otherwise mentioned in the Notes column.
 
-**Note:** Internship details listed here are for mostly for Summer 2019, and are accurate as of the time of writing. Some companies do not have a website dedicated for recruitment or internship applications. Some others do not have internship positions listed on their recruitment page although they do accept interns, or may update their openings at a later time.
+> **Note:** While the internship period for most of the companies listed here is **summer 2020**, companies might:
+>
+> - offer internships even when they are not listed
+> - offer internships all-year-round even if they don't publicize it 
 
 To contribute:
 1. Fork repository
