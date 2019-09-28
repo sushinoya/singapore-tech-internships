@@ -1,7 +1,7 @@
 
 # Singapore Tech Internships!
 
-All the internship positions listed in the table are for Software Engineering roles and are open to anyone enrolled in a Bachelor's degree program, unless otherwise mentioned in the Notes column.
+All the internship positions listed in the table are for **Software Engineering roles** and are open to anyone enrolled in a **Bachelor's degree** program, unless stated otherwise in the Notes column.
 
 > **Note:** While the internship period for most of the companies listed here is **summer 2020**, companies might:
 >
