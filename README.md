@@ -16,7 +16,7 @@ To contribute:
 |---|---|---|---|
 | [Carousell](https://careers.carousell.com/)  | Tanjong Pagar | Unknown | No intern positions listed |
 | [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html)  | NUS | Summer | SWE Intern (Predominantly for NUS students) |
-| DRW | Downtown/Marina Bay | Summer | Quantitative Research |
+| [DRW](https://boards.greenhouse.io/drweng/jobs/1848302?gh_src=674e39101) | Downtown/Marina Bay | Summer | Quantitative Research |
 | [FireVisor](https://angel.co/firevisor/jobs) | One-North / City Hall | All-year around | Hire interns even if not listed |
 | [Facebook](https://www.facebook.com/careers/jobs/440222083369338/) | Marina One | Summer | |
 | [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | No intern positions listed |
@@ -27,7 +27,7 @@ To contribute:
 | [Honestbee](https://careers.honestbee.com/departments/job/)  | Tiong Bahru | Summer | No intern positions listed |
 | [HopeTechnik](https://www.hopetechnik.com/careers/) | Jurong | All-year around| Software Engineering Intern && Technical Analyst && Mechanical Engineering Intern |
 |IBM | Changi Business Park | Unknown | |
-| [JPMorgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=190064684)| | Summer|October 27, 2019|
+| [JPMorgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=190064684)| Changi Business Park | Summer| October 27, 2019|
 | [Jump Trading](https://www.jumptrading.com/jobs.html)  | Downtown | Summer | |
 | [Lazada](http://www.lazada.com/work-at-lazada) | Tanjong Pagar | Summer | |
 | [Nutonomy](https://www.nutonomy.com/careers/) | Jurong | All-year-around | Autonomous Driving Intern. Note that you need to be on a MS/PhD track |
@@ -36,9 +36,9 @@ To contribute:
 | [ShopBack](http://careers.shopback.com/singapore)  | One-North | Summer | No SE intern positions listed |
 | [SEA(Shopee)](https://careers.shopee.sg/) | Kent-Ridge | All-year around | |
 | [Stripe](https://stripe.com/jobs/listing/software-engineering-intern-apac/1806024?gh_src=73vnei) | Outram Park | Summer | |
-| Traveloka| Unknown | Summer | |
-| Twitter  | Raffles Place/Downtown | Summer | |
+| [Traveloka](https://www.traveloka.com/en-sg/student-internship)| Robinson Rd | Summer | No intern positions listed for Singapore. Currently open for Indonesia|
+| [Twitter](https://careers.twitter.com/en/university.html)  | Raffles Place/Downtown | Summer | No intern positions listed for Singapore. Currently open for San Francisco HQ|
 | [VISA](https://jobs.smartrecruiters.com/oneclick-ui/company/108611351/job/1520850202/publication/743999693253063)  | Paya Lebar | Summer | Might include an all-paid trip to the VISA HQ in San Francisco |
 | [ViSenze](https://visenze.workable.com/jobs/708797/candidates/new)  | One-North | Unknown | |
-| Yitu Tech | Pasir Panjang | Summer/Winter | |
+| [Yitu Tech](https://www.yitutech.com/cn/career?mode=campus&intern=true) | Pasir Panjang | Summer/Winter | No SE intern positions listed for Singapore. Currently open for China|
 | [Zendesk](https://www.zendesk.com/jobs/singapore/)  | Commonwealth | Summer | No intern positions listed |
