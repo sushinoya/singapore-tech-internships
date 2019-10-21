@@ -34,6 +34,7 @@ To contribute:
 | [Nutonomy](https://www.nutonomy.com/careers/) | Jurong | All-year-around | Autonomous Driving Intern. Note that you need to be on a MS/PhD track |
 | [OpenGovProducts](https://opengovernmentproducts.recruitee.com/)| Funan| All-year-round| SE & UX interns; Only Singaporean or PR allowed;|
 | [Palantir](https://www.palantir.com/careers/)| Various countries (HQ at Palo Alto) | Unknown | Forward deployed engineer has opportunities for travelling |
+| [PayPal](https://www.paypal.com/us/webapps/mpp/jobs)| Suntec City | 6 months | |
 | [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year around | |
 | [ShopBack](http://careers.shopback.com/singapore)  | One-North | Summer | No SE intern positions listed |
 | [SEA(Shopee)](https://careers.shopee.sg/) | Kent-Ridge | All-year around | |
