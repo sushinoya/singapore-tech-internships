@@ -30,11 +30,10 @@ To contribute:
 | [JPMorgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=190064684)| | Summer|October 27, 2019|
 | [Jump Trading](https://www.jumptrading.com/jobs.html)  | Downtown | Summer | |
 | [Lazada](http://www.lazada.com/work-at-lazada) | Tanjong Pagar | Summer | |
-| [Microsoft](https://careers.microsoft.com/us/en/job/697177/2020-Summer-Internship-Opportunities-Singapore) | #13-01 Frasers Tower | Summer | Deadline: 1 Dec 2019 |
 | [Nutonomy](https://www.nutonomy.com/careers/) | Jurong | All-year-around | Autonomous Driving Intern. Note that you need to be on a MS/PhD track |
 | [OpenGovProducts](https://opengovernmentproducts.recruitee.com/)| Funan| All-year-round| SE & UX interns; Only Singaporean or PR allowed;|
-| [Palantir](https://www.palantir.com/careers/)| Various countries (HQ at Palo Alto) | Unknown | Forward deployed engineer has opportunities for travelling |
-| [PayPal](https://www.paypal.com/us/webapps/mpp/jobs)| Suntec City | 6 months | |
+| [Palantir](https://jobs.lever.co/palantir/?location=Singapore%2C%20Singapore)| Various countries (HQ at Palo Alto) | Unknown | Forward deployed engineer has opportunities for travelling |
+| [PayPal](https://jobsearch.paypal-corp.com/en-US/search?keywords=Engineer%20Intern&location=&facetcountry=sg)| Suntec City | 6 months | |
 | [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year around | |
 | [ShopBack](http://careers.shopback.com/singapore)  | One-North | Summer | No SE intern positions listed |
 | [SEA(Shopee)](https://careers.shopee.sg/) | Kent-Ridge | All-year around | |
