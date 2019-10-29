@@ -38,7 +38,7 @@ To contribute:
 | [ShopBack](http://careers.shopback.com/singapore)  | One-North | Summer | No SE intern positions listed |
 | [SEA(Shopee)](https://careers.shopee.sg/) | Kent-Ridge | All-year around | |
 | [Stripe](https://stripe.com/jobs/listing/software-engineering-intern-apac/1806024?gh_src=73vnei) | Outram Park | Summer | |
-| [Titansoft](https://www.titansoft.com/en/career/current-openings?country=singapore) | 90 Eu Tong Sen Street #05-01 | 6 months and summer available | |
+| [Titansoft](https://www.titansoft.com/en/career/current-openings?country=singapore) | Outram Park | 6 months and summer available | |
 | Traveloka| Unknown | Summer | |
 | Twitter  | Raffles Place/Downtown | Summer | |
 | [VISA](https://jobs.smartrecruiters.com/oneclick-ui/company/108611351/job/1520850202/publication/743999693253063)  | Paya Lebar | Summer | Might include an all-paid trip to the VISA HQ in San Francisco |
