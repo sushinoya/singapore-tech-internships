@@ -29,6 +29,7 @@ To contribute:
 | [JPMorgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210014831)| | Summer| October 30, 2020|
 | [Jump Trading](https://www.jumptrading.com/jobs.html)  | Downtown | Summer | Tech Ops && SWE internships |
 | [Lazada](https://www.lazada.com/en/careers/job-description/GP655404/) | Tanjong Pagar | Summer | Data Analyst position |
+| [Ninja Van](https://jobs.lever.co/ninjavan?location=Singapore%2C%20Singapore&department=Tech&commitment=Internship) | Alexandra | All-year-round | SWE Internships |
 | [OpenGovProducts](https://opengovernmentproducts.recruitee.com/o/software-engineering-intern)| Funan | All-year-round | Only Singaporeans or PRs allowed |
 | [PayPal](https://career.seagroup.com/programs?pos=LIP-area)  | Promenade | All-year around | |
 | [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year around | |
