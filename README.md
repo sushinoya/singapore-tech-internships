@@ -14,7 +14,7 @@ To contribute:
 ## List of positions
 | Name | Location | Application Period | Notes  |
 |---|---|---|---|
-| [ByteDance](https://job.bytedance.com/en/position?keywords=&category=&location=CT_163&project=&type=3&job_hot_flag=&current=1&limit=10)  | Unknown | Unknown | No tech internship positions listed currently |
+| [ByteDance](https://www.linkedin.com/jobs/view/1998145617)  | Unknown | Summer | 2 September to 30 November 2020 |
 | [Carousell](https://careers.carousell.com/)  | Tanjong Pagar | Unknown | No tech internship positions listed currently |
 | [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html)  | NUS | Summer | SWE Intern (Predominantly for NUS students) |
 | [DRW](https://drw.com/careers/job/1401626) | Downtown/Marina Bay | Summer |  |
