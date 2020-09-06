@@ -21,6 +21,7 @@ To contribute:
 | [FireVisor](https://angel.co/firevisor/jobs) | One-North / City Hall | All-year around | No tech internship positions listed currently |
 | [Facebook](https://www.facebook.com/careers/jobs/?offices[0]=Singapore&roles[0]=intern) | Marina One | Summer | No tech internship positions listed currently |
 | [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | No tech internship positions listed currently |
+| [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/asia-pacific/summer-analyst.html) | Tanjong Pagar | Summer | Closes 11 Oct 
 | [Google](https://careers.google.com/jobs/results/138610814874460870/)  | Pasir Panjang | Summer | Opens 1st September 2020 | Within 12-18 months of completing a Bachelor's or Master's degree
 | [Google (STEP)](https://careers.google.com/jobs/results/86349162167050950/)  | Pasir Panjang | Summer | Opens 1st September 2020 | Only open to second year  undergraduate students
 | [GovTech](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/4/refreshFacet/318c8bb6f553100021d223d9780d30be)| Depends on team| Summer | Multiple positions open |
