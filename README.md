@@ -32,7 +32,7 @@ To contribute:
 | [Lazada](https://www.lazada.com/en/careers/job-description/GP655404/) | Tanjong Pagar | Summer | Data Analyst position |
 | [Ninja Van](https://jobs.lever.co/ninjavan?location=Singapore%2C%20Singapore&department=Tech&commitment=Internship) | Alexandra | All-year-round | SWE Internships |
 | [OpenGovProducts](https://opengovernmentproducts.recruitee.com/o/software-engineering-intern)| Funan | All-year-round | Only Singaporeans or PRs allowed |
-| [PayPal](https://career.seagroup.com/programs?pos=LIP-area)  | Promenade | All-year around | |
+| [PayPal](https://www.paypal.com/us/webapps/mpp/jobs/students-and-grads)  | Promenade | All-year around | |
 | [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year around | |
 | [Seedly](https://careers.seedly.com/)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
 | [ShopBack](https://jobs.lever.co/shopback-2/f2e65eaa-539c-4051-a014-6fc45c26e989)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
