@@ -17,6 +17,7 @@ To contribute:
 | [Apple](https://jobs.apple.com/en-sg/details/200193650/2021-apple-internship-information-systems-and-technology?team=SFTWR)  | One-North | Unknown | Expected Graduation in 2021-2022 |
 | [ByteDance](https://www.linkedin.com/jobs/view/1998145617)  | Unknown | Summer | 2 September to 30 November 2020 |
 | [Carousell](https://careers.carousell.com/)  | Tanjong Pagar | Unknown | No tech internship positions listed currently |
+| [Circles.Life](https://www.circles.life/sg/job-board/)  | Unknown | January 2021 | iOS, Android, Web and general SWE positions |
 | [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html)  | NUS | Summer | SWE Intern (Predominantly for NUS students) |
 | [DRW](https://drw.com/careers/job/1401626) | Downtown/Marina Bay | Summer |  |
 | [FireVisor](https://angel.co/firevisor/jobs) | One-North / City Hall | All-year around | No tech internship positions listed currently |
