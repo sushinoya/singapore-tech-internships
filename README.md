@@ -15,7 +15,7 @@ To contribute:
 | Name | Location | Application Period | Notes  |
 |---|---|---|---|
 | [Apple](https://jobs.apple.com/en-sg/details/200193650/2021-apple-internship-information-systems-and-technology?team=SFTWR)  | One-North | Unknown | Expected Graduation in 2021-2022 |
-| [ByteDance](https://job.bytedance.com/referral/pc/position?keywords=&category=&location=CT_163&project=&type=3&job_hot_flag=&current=1&limit=10&token=MzsxNjA0Mzg0NDA4NDA2OzY4NjY5NzE0ODQ4ODQ0MDM3MjU7MA)  | One Raffles Quay | All-year round | Multiple positions listed |
+| [ByteDance](https://job.bytedance.com/en/position?keywords=&category=&location=&project=6854152751179303182&type=3&job_hot_flag=&current=1&limit=10)  | One Raffles Quay | 2 Oct - 30 Nov | Multiple positions listed |
 | [Carousell](https://careers.carousell.com/)  | Tanjong Pagar | Unknown | No tech internship positions listed currently |
 | [Circles.Life](https://www.circles.life/sg/job-board/)  | Unknown | January 2021 | iOS, Android, Web and general SWE positions |
 | [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html)  | NUS | Summer | SWE Intern (Predominantly for NUS students) |
