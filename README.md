@@ -13,7 +13,7 @@ To contribute:
 
 ## List of positions
 | Name | Location | Application Period | Notes  |
-|---|---|---|---|
+|------|----------|--------------------|--------|
 | [Apple](https://jobs.apple.com/en-sg/details/200193650/2021-apple-internship-information-systems-and-technology?team=SFTWR)  | One-North | Unknown | Expected Graduation in 2021-2022 |
 | [ByteDance](https://job.bytedance.com/en/position?keywords=&category=&location=&project=6854152751179303182&type=3&job_hot_flag=&current=1&limit=10)  | One Raffles Quay | Summer | Application period: 2 Oct - 30 Nov |
 | [Carousell](https://careers.carousell.com/)  | Tanjong Pagar | Unknown | No tech internship positions listed currently |
@@ -26,8 +26,8 @@ To contribute:
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/asia-pacific/summer-analyst.html) | Tanjong Pagar | Summer | Closes 11 Oct 
 | [Google](https://careers.google.com/jobs/results/138610814874460870/)  | Pasir Panjang | Summer | Opens 1st September 2020 | Within 12-18 months of completing a Bachelor's or Master's degree
 | [Google (STEP)](https://careers.google.com/jobs/results/86349162167050950/)  | Pasir Panjang | Summer | Opens 1st September 2020 | Only open to second year  undergraduate students
-| [GovTech](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/4/refreshFacet/318c8bb6f553100021d223d9780d30be)| Depends on team| Summer | Multiple positions open |
-| [Grab](https://grab.careers/jobs/)  | Marina One | Unknown | No tech internship positions listed currently  |
+| [GovTech](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/4/refreshFacet/318c8bb6f553100021d223d9780d30be) | Depends on team | Summer  | Multiple positions open |
+| [Grab](https://grab.careers/jobs/)                                                                                        | Marina One      | Unknown | No tech internship positions listed currently  |
 | [HopeTechnik](https://www.hopetechnik.com/careers/) | Jurong | All-year around| Software Engineering, Technical Analyst & Mechanical Engineering positions |
 | [JPMorgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210014831)| | Summer| October 30, 2020|
 | [Jump Trading](https://www.jumptrading.com/jobs.html)  | Downtown | Summer | Tech Ops && SWE internships |
@@ -40,6 +40,7 @@ To contribute:
 | [ShopBack](https://corporate.shopback.com/singapore)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
 | [Shopee](https://careers.shopee.sg/job-detail/2336/) | Kent-Ridge | All-year around | |
 | [Stripe](https://stripe.com/jobs/listing/2021-software-engineering-intern/2162723) | Outram Park | Summer | |
+| [Tickled Media](https://www.internsg.com/?s=tickled+media) | 71 Ayer Rajah Crescent, Singapore | Immediate Start, For At Least 6 Months | |
 | [Titansoft](https://www.titansoft.com/en/career/current-openings?country=singapore&tag=3) | Outram Park | Summer | |
 | [Twitter](https://careers.twitter.com/content/careers-twitter/en/jobs.html#location=careers-twitter%3Asr%2Foffice%2Fsingapore)  | Raffles Place/Downtown | Summer | |
 | [Vanitee](https://www.internsg.com/?s=vanitee&post_type=job) | 33 Devonshire Rd, Singapore 239852 | Flexible Start, For At Least 6 Months | |
