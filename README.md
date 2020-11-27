@@ -40,6 +40,7 @@ To contribute:
 | [ShopBack](https://corporate.shopback.com/singapore)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
 | [Shopee](https://careers.shopee.sg/job-detail/2336/) | Kent-Ridge | All-year around | |
 | [Stripe](https://stripe.com/jobs/listing/2021-software-engineering-intern/2162723) | Outram Park | Summer | |
+| [The Smart Local](https://thesmartlocal.com/read/singapore-internship-jobs-at-thesmartlocal-com/) | Unknown | 6 month long internship | |
 | [Tickled Media](https://www.internsg.com/?s=tickled+media) | 71 Ayer Rajah Crescent, Singapore | Immediate Start, For At Least 6 Months | |
 | [Titansoft](https://www.titansoft.com/en/career/current-openings?country=singapore&tag=3) | Outram Park | Summer | |
 | [Twitter](https://careers.twitter.com/content/careers-twitter/en/jobs.html#location=careers-twitter%3Asr%2Foffice%2Fsingapore)  | Raffles Place/Downtown | Summer | |
