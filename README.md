@@ -37,7 +37,7 @@ To contribute:
 | [PayPal](https://jobsearch.paypal-corp.com/en-US/search?facetcountry=sg&location=Singapore&facetcategory=internship)  | Promenade | All-year around | |
 | [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year around | |
 | [Seedly](https://careers.seedly.com/)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
-| [ShopBack](https://jobs.lever.co/shopback-2/f2e65eaa-539c-4051-a014-6fc45c26e989)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
+| [ShopBack](https://corporate.shopback.com/singapore)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
 | [Shopee](https://careers.shopee.sg/job-detail/2336/) | Kent-Ridge | All-year around | |
 | [Stripe](https://stripe.com/jobs/listing/2021-software-engineering-intern/2162723) | Outram Park | Summer | |
 | [Titansoft](https://www.titansoft.com/en/career/current-openings?country=singapore&tag=3) | Outram Park | Summer | |
