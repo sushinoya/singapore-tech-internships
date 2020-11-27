@@ -14,12 +14,14 @@ To contribute:
 ## List of positions
 | Name | Location | Application Period | Notes  |
 |---|---|---|---|
-| [ByteDance](https://www.linkedin.com/jobs/view/1998145617)  | Unknown | Summer | 2 September to 30 November 2020 |
+| [Apple](https://jobs.apple.com/en-sg/details/200193650/2021-apple-internship-information-systems-and-technology?team=SFTWR)  | One-North | Unknown | Expected Graduation in 2021-2022 |
+| [ByteDance](https://job.bytedance.com/en/position?keywords=&category=&location=&project=6854152751179303182&type=3&job_hot_flag=&current=1&limit=10)  | One Raffles Quay | Summer | Application period: 2 Oct - 30 Nov |
 | [Carousell](https://careers.carousell.com/)  | Tanjong Pagar | Unknown | No tech internship positions listed currently |
+| [Circles.Life](https://www.circles.life/sg/job-board/)  | Unknown | January 2021 | iOS, Android, Web and general SWE positions |
 | [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html)  | NUS | Summer | SWE Intern (Predominantly for NUS students) |
 | [DRW](https://drw.com/careers/job/1401626) | Downtown/Marina Bay | Summer |  |
 | [FireVisor](https://angel.co/firevisor/jobs) | One-North / City Hall | All-year around | No tech internship positions listed currently |
-| [Facebook](https://www.facebook.com/careers/jobs/?offices[0]=Singapore&roles[0]=intern) | Marina One | Summer | No tech internship positions listed currently |
+| [Facebook](https://www.facebook.com/careers/jobs/1465782667144252/) | Marina One | Summer | |
 | [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | No tech internship positions listed currently |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/asia-pacific/summer-analyst.html) | Tanjong Pagar | Summer | Closes 11 Oct 
 | [Google](https://careers.google.com/jobs/results/138610814874460870/)  | Pasir Panjang | Summer | Opens 1st September 2020 | Within 12-18 months of completing a Bachelor's or Master's degree
