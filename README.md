@@ -20,8 +20,8 @@ To contribute:
 | [Circles.Life](https://www.circles.life/sg/job-board/)  | Unknown | January 2021 | iOS, Android, Web and general SWE positions |
 | [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html)  | NUS | Summer | SWE Intern (Predominantly for NUS students) |
 | [DRW](https://drw.com/careers/job/1401626) | Downtown/Marina Bay | Summer |  |
-| [FireVisor](https://angel.co/firevisor/jobs) | One-North / City Hall | All-year around | No tech internship positions listed currently |
 | [Facebook](https://www.facebook.com/careers/jobs/1465782667144252/) | Marina One | Summer | |
+| [FireVisor](https://angel.co/firevisor/jobs) | One-North / City Hall | All-year around | No tech internship positions listed currently |
 | [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | No tech internship positions listed currently |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/asia-pacific/summer-analyst.html) | Tanjong Pagar | Summer | Closes 11 Oct 
 | [Google](https://careers.google.com/jobs/results/138610814874460870/)  | Pasir Panjang | Summer | Opens 1st September 2020 | Within 12-18 months of completing a Bachelor's or Master's degree
