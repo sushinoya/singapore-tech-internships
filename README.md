@@ -22,6 +22,7 @@ To contribute:
 | [DRW](https://drw.com/careers/job/1401626) | Downtown/Marina Bay | Summer |  |
 | [Facebook](https://www.facebook.com/careers/jobs/1465782667144252/) | Marina One | Summer | |
 | [FireVisor](https://angel.co/firevisor/jobs) | One-North / City Hall | All-year around | No tech internship positions listed currently |
+| [Food Panda](https://boards.greenhouse.io/foodpandasingapore/jobs/2399062) | Unknown | All-year around | SWE Intern |
 | [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | No tech internship positions listed currently |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/asia-pacific/summer-analyst.html) | Tanjong Pagar | Summer | Closes 11 Oct 
 | [Google](https://careers.google.com/jobs/results/138610814874460870/)  | Pasir Panjang | Summer | Opens 1st September 2020 | Within 12-18 months of completing a Bachelor's or Master's degree
@@ -37,6 +38,7 @@ To contribute:
 | [PayPal](https://jobsearch.paypal-corp.com/en-US/search?facetcountry=sg&location=Singapore&facetcategory=internship)  | Promenade | All-year around | |
 | [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year around | |
 | [Seedly](https://careers.seedly.com/)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
+| [Seimons](https://gradsingapore.com/graduate-employers/siemens-pte-ltd/jobs-internships/intern-software-engineer) | Unknown | 3 months | SWE Intern |
 | [ShopBack](https://jobs.lever.co/shopback-2/3c60180b-6dd1-48a6-9d0e-4edf80be1fc3)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
 | [Shopee](https://careers.shopee.sg/job-detail/2336/) | Kent-Ridge | All-year around | |
 | [Stripe](https://stripe.com/jobs/listing/2021-software-engineering-intern/2162723) | Outram Park | Summer | |
