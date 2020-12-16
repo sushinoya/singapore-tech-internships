@@ -38,7 +38,6 @@ To contribute:
 | [PayPal](https://jobsearch.paypal-corp.com/en-US/search?facetcountry=sg&location=Singapore&facetcategory=internship)  | Promenade | All-year around | |
 | [SEA(Garena)](https://career.seagroup.com/programs?pos=LIP-area)  | One-North | All-year around | |
 | [Seedly](https://careers.seedly.com/)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
-| [Seimons](https://gradsingapore.com/graduate-employers/siemens-pte-ltd/jobs-internships/intern-software-engineer) | Unknown | 3 months | SWE Intern / Data Analytics|
 | [ShopBack](https://jobs.lever.co/shopback-2/3c60180b-6dd1-48a6-9d0e-4edf80be1fc3)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
 | [Shopee](https://careers.shopee.sg/job-detail/2336/) | Kent-Ridge | All-year around | |
 | [Stripe](https://stripe.com/jobs/listing/2021-software-engineering-intern/2162723) | Outram Park | Summer | |
