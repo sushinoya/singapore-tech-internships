@@ -15,6 +15,7 @@ To contribute:
 | Name | Location | Application Period | Notes  |
 |------|----------|--------------------|--------|
 | [Apple](https://jobs.apple.com/en-sg/details/200272499/2022-apple-internship-information-systems-and-technology?team=STDNT)  | One-North | Summer 2022 | 6-month long, Information Systems and Technology Internship |
+| [Basis](https://basis-ai.com/get-in-touch)  | Tanjong Pagar |  Unknown |  No position listed but they do accept interns |
 | [ByteDance](https://job.bytedance.com/en/position?keywords=&category=&location=&project=6854152751179303182&type=3&job_hot_flag=&current=1&limit=10)  | One Raffles Quay | Summer | Application period: 2 Oct - 30 Nov |
 | [Carousell](https://careers.carousell.com/job-posting/?gh_jid=2980636)  | Tanjong Pagar | Unknown | Software Engineer Internship, Android |
 | [Circles.Life](https://www.circles.life/sg/job-board/)  | Unknown | January 2021 | iOS, Android, Web and general SWE positions |
@@ -42,6 +43,7 @@ To contribute:
 | [Shopee](https://careers.shopee.sg/job-detail/2336/) | Kent-Ridge | All-year around | |
 | [Stripe](https://stripe.com/jobs/listing/2021-software-engineering-intern/2162723) | Outram Park | Summer | |
 | [Titansoft](https://www.titansoft.com/en/career/current-openings?country=singapore&tag=3) | Outram Park | Summer | |
+| [Traverse](https://www.traverse.ai/about-us/contact) | Commonwealth  | Unknown | No position listed but they do accept interns |
 | [Twitter](https://careers.twitter.com/content/careers-twitter/en/jobs.html#location=careers-twitter%3Asr%2Foffice%2Fsingapore)  | Raffles Place/Downtown | Summer | |
 | [VISA](https://www.visa.com.sg/careers/job-details.jobid.743999675740916.deptid.868537.html)  | Paya Lebar | Summer | |
 | [ViSenze](https://apply.workable.com/visenze/?lng=en)  | One-North | Unknown | Full Stack and R&D internships |
