@@ -41,7 +41,7 @@ To contribute:
 | [Seedly](https://careers.seedly.com/)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
 | [ShopBack](https://jobs.lever.co/shopback-2/3c60180b-6dd1-48a6-9d0e-4edf80be1fc3)  | One-North | Summer | Internship period is Sept-Dec 2020 or Jan-May 2021 |
 | [Shopee](https://careers.shopee.sg/job-detail/2336/) | Kent-Ridge | All-year around | |
-| [Stripe](https://stripe.com/jobs/listing/2021-software-engineering-intern/2162723) | Outram Park | Summer | |
+| [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/3368637) | Outram Park | Summer | |
 | [Titansoft](https://www.titansoft.com/en/career/current-openings?country=singapore&tag=3) | Outram Park | Summer | |
 | [Traverse](https://www.traverse.ai/about-us/contact) | Commonwealth  | Unknown | No position listed but they do accept interns |
 | [Twitter](https://careers.twitter.com/content/careers-twitter/en/jobs.html#location=careers-twitter%3Asr%2Foffice%2Fsingapore)  | Raffles Place/Downtown | Summer | |
