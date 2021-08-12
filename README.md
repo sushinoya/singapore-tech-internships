@@ -16,7 +16,7 @@ To contribute:
 |------|----------|--------------------|--------|
 | [Apple](https://jobs.apple.com/en-sg/details/200272499/2022-apple-internship-information-systems-and-technology?team=STDNT)  | One-North | Summer 2022 | 6-month long, Information Systems and Technology Internship |
 | [Basis](https://basis-ai.com/get-in-touch)  | Tanjong Pagar |  Unknown |  No position listed but they do accept interns |
-| [ByteDance](https://job.bytedance.com/en/position?keywords=&category=&location=&project=6854152751179303182&type=3&job_hot_flag=&current=1&limit=10)  | One Raffles Quay | Summer | Application period: 2 Oct - 30 Nov |
+| [ByteDance](https://jobs.bytedance.com/en/position?keywords=&category=6704215862603155720&location=CT_163&project=&type=3&job_hot_flag=&current=1&limit=10)  | Tanjong Pagar | Summer & Spring |  |
 | [Carousell](https://careers.carousell.com/job-posting/?gh_jid=2980636)  | Tanjong Pagar | Unknown | Software Engineer Internship, Android |
 | [Circles.Life](https://www.circles.life/sg/job-board/)  | Unknown | January 2021 | iOS, Android, Web and general SWE positions |
 | [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html)  | NUS | Summer | SWE Intern (Predominantly for NUS students) |
