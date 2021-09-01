@@ -27,7 +27,7 @@ To contribute:
 | [Go-Jek](https://www.gojek.io/careers/) | Tanjong Pagar | Summer | No tech internship positions listed currently |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/asia-pacific/summer-analyst.html) | Tanjong Pagar | Summer | Closes 11 Oct 
 | [Google](https://careers.google.com/jobs/results/138610814874460870/)  | Pasir Panjang | Summer | Opens 1st September 2020 | Within 12-18 months of completing a Bachelor's or Master's degree
-| [Google (STEP)](https://careers.google.com/jobs/results/86349162167050950/)  | Pasir Panjang | Summer | Opens 1st September 2020 | Only open to second year  undergraduate students
+| [Google (STEP)](https://careers.google.com/jobs/results/111206685625721542-student-training-in-engineering-program-step-intern-2022/?fbclid=IwAR3n2u_Sqg5juJVXduLRRYFBlICbr7BXsjMQi-tFjmUNrCEhZK8_Y1xT1ew%3Ffrom%3Dtgmar&page=4&utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply)  | Pasir Panjang | Summer | Opens 1st September 2021 | Only open to second year  undergraduate students
 | [GovTech](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/4/refreshFacet/318c8bb6f553100021d223d9780d30be) | Depends on team | Summer  | Multiple positions open |
 | [Grab](https://grab.careers/jobs/)                                                                                        | Marina One      | Unknown | No tech internship positions listed currently  |
 | [HopeTechnik](https://www.hopetechnik.com/careers/) | Jurong | All-year around| Software Engineering, Technical Analyst & Mechanical Engineering positions |
