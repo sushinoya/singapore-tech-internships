@@ -19,6 +19,7 @@ To contribute:
 | [ByteDance & TikTok](https://bytedance.feishu.cn/docs/doccnhFYuO21dvlpC3ZVg4pTZ50#ruVHxU) | Tanjong Pagar | Summer & Spring | Multiple positions open |
 | [Carousell](https://careers.carousell.com/job-posting/?gh_jid=2980636) | Tanjong Pagar | Unknown | Software Engineer Internship, Android |
 | [Circles.Life](https://www.circles.life/sg/job-board/) | Unknown | January 2021 | iOS, Android, Web and general SWE positions |
+| [Citi](https://jobs.citi.com/job/singapore/icg-technology-software-development-2022-summer-analyst-singapore/287/12532326144) | Marina View | Summer | Software Development under their Summer Analyst Program |
 | [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html) | NUS | Summer | SWE Intern (Predominantly for NUS students) |
 | [DRW](https://drw.com/careers/job/software-developer-intern-1933017/) | Downtown/Marina Bay | Summer | |
 | [Facebook](https://www.facebook.com/careers/jobs/?offices%5B0%5D=Singapore&roles%5B0%5D=intern&is_leadership=0&is_in_page=0) | Marina One | Summer | Software Engineer and Enterprise Engineer Positions |
