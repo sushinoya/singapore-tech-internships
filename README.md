@@ -36,6 +36,7 @@ To contribute:
 | [JPMorgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210141619)| | Summer | Closes 31 Oct 2021 |
 | [Jump Trading](https://www.jumptrading.com/jobs.html) | Downtown | Summer | SWE and Tech Ops Positions |
 | [Lazada](https://www.lazada.com/en/careers/job-description/GP655404/) | Tanjong Pagar | Summer | Data Analyst Position |
+| [Motional](https://motional.com/careers/positions) | Fusionopolis | Unknown | ML, CV, Research & Systems Engineering Positions; 3-5 months depending on role |
 | [Ninja Van](https://jobs.lever.co/ninjavan?location=Singapore%2C%20Singapore&department=Tech&commitment=Internship) | Alexandra | All-year-round | |
 | [OpenGovProducts](https://opengovernmentproducts.recruitee.com/o/software-engineering-intern)| Funan | All-year-round | Only Singaporeans or PRs allowed |
 | [PayPal](https://jobsearch.paypal-corp.com/en-US/search?facetcountry=sg&location=Singapore&facetcategory=internship) | Promenade | All-year around | |
