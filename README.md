@@ -33,6 +33,7 @@ To contribute:
 | [GovTech](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/4/refreshFacet/318c8bb6f553100021d223d9780d30be) | Depends on team | Summer | Multiple positions open |
 | [Grab](https://grab.careers/jobs/) | Marina One | Unknown | 6-month Jan-Jun; Engineering and Data Science positions |
 | [HopeTechnik](https://www.hopetechnik.com/careers/) | Jurong | All-year around | Software Engineering, Technical Analyst and Mechanical Engineering positions |
+| [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3424063&_offices=Singapore) | Raffles Place | Summer | Software Engineering - C++ / Software Engineering - Python |
 | [IBM](https://careers.ibm.com/job/13539646/internship-software-developer-jan-to-may-jun-singapore-sg/?codes=IBM_CareerWebSite) | Changi Business Park | Unknown | 6-month Jan-Jun |
 | [JPMorgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210141619)| | Summer | Closes 31 Oct 2021 |
 | [Jump Trading](https://www.jumptrading.com/jobs.html) | Downtown | Summer | SWE and Tech Ops positions |
