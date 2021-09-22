@@ -16,6 +16,7 @@ To contribute:
 |------|----------|--------------------|-------|
 | [Apple](https://jobs.apple.com/en-sg/details/200272499/2022-apple-internship-information-systems-and-technology?team=STDNT) | One-North | Summer | 6-month long, Information Systems and Technology Internship |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni)  | One-North | Unknown | Multiple positions open |
+| [Bank of America](https://campus.bankofamerica.com/careers/Global-Technology-Summer-Analyst-Program-APAC.html) | Unknown | Summer | Closes 10 Oct 2021 |
 | [Basis](https://basis-ai.com/get-in-touch) | Tanjong Pagar | Unknown | No position listed but they do accept interns |
 | [ByteDance & TikTok](https://bytedance.feishu.cn/docs/doccnhFYuO21dvlpC3ZVg4pTZ50#ruVHxU) | Tanjong Pagar | Summer & Spring | Multiple positions open |
 | [Carousell](https://careers.carousell.com/job-posting/?gh_jid=2980636) | Tanjong Pagar | Unknown | Software Engineer Internship, Android |
