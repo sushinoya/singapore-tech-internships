@@ -24,6 +24,7 @@ To contribute:
 | [Citi](https://jobs.citi.com/job/singapore/icg-technology-software-development-2022-summer-analyst-singapore/287/12532326144) | Marina View | Summer | Software Development under their Summer Analyst Program |
 | [CVWO](https://www.comp.nus.edu.sg/~vwo/contact.html) | NUS | Summer | SWE Intern (Predominantly for NUS students) |
 | [DRW](https://drw.com/careers/job/software-developer-intern-1933017/) | Downtown/Marina Bay | Summer | |
+| [DBS](https://www.dbs.com/careers/internships/young-seeder-internship) | Marina Bay / Changi Business Park | Summer | Not open yet |
 | [Facebook](https://www.facebook.com/careers/jobs/?offices%5B0%5D=Singapore&roles%5B0%5D=intern&is_leadership=0&is_in_page=0) | Marina One | Summer | SWE and Enterprise Engineer positions |
 | [FireVisor](https://angel.co/firevisor/jobs) | One-North / City Hall | All-year around | No tech internship positions listed currently |
 | [Foodpanda](https://boards.greenhouse.io/foodpandasingapore/jobs/2399062) | Unknown | All-year around | |
